@@ -109,13 +109,11 @@ html,
 
 .gh-card-content {
     max-width: 720px;
-    margin: 0 auto;
     font-size: 1.6rem;
 }
 
 .gh-card-content p {
     margin: 1.2rem 0;
-    padding: 0 6vmin;
 }
 
 .gh-card-content > strong {
