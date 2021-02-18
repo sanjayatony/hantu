@@ -1,7 +1,6 @@
 {
-    "name": "ghost-starter-theme",
+    "name": "hantu",
     "description": "A custom theme for ghost",
-    "demo": "https://starter.ghost.io",
     "version": "1.0.0",
     "engines": {
         "ghost": ">=3.0.0",
@@ -21,15 +20,14 @@
         "ship": "STATUS=$(git status --porcelain); echo $STATUS; if [ -z \"$STATUS\" ]; then yarn version && git push --follow-tags; fi"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Tony S",
+        "email": "sanjayatony@gmail.com",
+        "url": "https://tonysanjaya.me"
     },
     "gpm": {
         "type": "theme",
         "categories": [
-            "Minimal",
-            "Magazine"
+            "Minimal"
         ]
     },
     "keywords": [
