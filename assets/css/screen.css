@@ -23,8 +23,6 @@ production stylesheet in assets/built/screen.css using: gulp dev
 @import "ghost/footer.css";
 @import "ghost/badge.css";
 
-
-
 /* Main - Your styles here! Edit below
 /* ---------------------------------------------------------- */
 
@@ -112,7 +110,6 @@ html,
 .gh-card-content {
     max-width: 720px;
     margin: 0 auto;
-    text-align: center;
     font-size: 1.6rem;
 }
 
@@ -128,7 +125,6 @@ html,
     box-shadow: 0 -1px 0 0 inset currentColor;
     opacity: 0.5;
 }
-
 
 /* Page
 /* ---------------------------------------------------------- */
@@ -157,7 +153,6 @@ html,
         font-size: 1.6rem;
     }
 }
-
 
 /* Post
 /* ---------------------------------------------------------- */
@@ -189,7 +184,6 @@ html,
 .gh-post-footer {
     margin: 2rem 0;
 }
-
 
 /* Author Archive
 /* ---------------------------------------------------------- */
@@ -227,7 +221,7 @@ html,
     margin: 0 1.25vmin 0 0;
     height: 1em;
     width: 1px;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
     transform: rotate(20deg);
 }
 
